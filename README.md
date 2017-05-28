@@ -36,7 +36,7 @@ choco install golang
 **GNU/Linux**
 
 ~~~~~~powershell
-choco install golang
+apt-get install golang
 ~~~~~~
 
 ### 1. Make
@@ -46,7 +46,7 @@ How to install Make on Windows and GNU/Linux systems.
 **Windows**
 
 ~~~~~~powershell
-apt-get install make
+choco install make
 ~~~~~~
 
 **GNU/Linux**
