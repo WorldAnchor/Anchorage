@@ -15,7 +15,7 @@ $ make
 # Execute the binary.
 $ ./bin/hello
 Version :  0.0.1
-Build date :  2017-05-27T17:37:31-0700
+Git commit hash :  27ac054504568d988942d33b3c5de6a45e0eca05
 ~~~~~~
 
 ## Required
