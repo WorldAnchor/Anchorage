@@ -2,7 +2,7 @@ Go: Get Started
 ===============
 <sup>*A Golang Primer*</sup>
 
-A quick guide to getting started with [Golang](https://golang.org)
+A quick guide to getting started with [Golang](https://golang.org).
 
 ## Usage Instructions
 
@@ -46,11 +46,11 @@ How to install Make on Windows and GNU/Linux systems.
 **Windows**
 
 ~~~~~~powershell
-apt-get install golang
+apt-get install make
 ~~~~~~
 
 **GNU/Linux**
 
-~~~~~~powershell
+~~~~~~bash
 apt-get install build-essential
 ~~~~~~
