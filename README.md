@@ -20,8 +20,9 @@ Git commit hash :  27ac054504568d988942d33b3c5de6a45e0eca05
 
 ## Required
 
-This project will require that Golang, `go`, and Make, `make`, are installed on
-your system.
+This project will require that [Golang](https://golang.org), `go`, and
+[Make](https://www.gnu.org/software/make/), `make`, are installed on your
+system.
 
 ### 1. Golang
 
