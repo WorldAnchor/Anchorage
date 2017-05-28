@@ -21,7 +21,10 @@ BUILD_DIR = bin
 # Set the version.
 VERSION = 0.0.1
 # A date here will result in a checkum error between builds.
-BUILD = `date +%FT%T%z`
+# BUILD = `date +%FT%T%z`
+# 
+# Use Git HEAD
+BUILD = `git rev-parse HEAD`
 
 # Set the link flags in order to interpolate the build variables set above.
 LDFLAGS = -ldflags "-X main.Version=${VERSION} -X main.Build=$(BUILD)"
