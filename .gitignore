@@ -1,0 +1,9 @@
+# Ignore Vim swap files.
+*.swo
+*.swp
+
+# Ignore Vagrant folder.
+.vagrant/
+
+# Ignore the build folder to exclude the compiled binaries.
+bin/
